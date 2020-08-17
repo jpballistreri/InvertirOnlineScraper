@@ -1,0 +1,11 @@
+{
+	"collection":"invertirOnlineTest",
+
+    "urls" : {        
+        "cedears":"https://www.invertironline.com/mercado/cotizaciones/argentina/acciones/cedears",
+		"panel-general":"https://www.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-general",
+		"estados-unidos-adrs-argentina":"https://www.invertironline.com/mercado/cotizaciones/estados-unidos/adrs/argentina",
+		"estados-unidos":"https://www.invertironline.com/mercado/cotizaciones/estados-unidos"	
+	
+	}
+}
